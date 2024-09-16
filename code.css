@@ -7,7 +7,7 @@ ul {
     background-color: rgb(20, 4, 89);
 }
 a:hover{
-    color: black;
+    background-color: black;
 }
 li{
     float: left;
