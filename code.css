@@ -4,6 +4,7 @@ ul {
     padding: 0;
     width: 100%;
     overflow: hidden;
+    background-color: azure;
 }
 li{
     float: left;
