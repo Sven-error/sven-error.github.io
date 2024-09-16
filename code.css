@@ -4,7 +4,10 @@ ul {
     padding: 0;
     width: 100%;
     overflow: hidden;
-    background-color: azure;
+    background-color: rgb(20, 4, 89);
+}
+a:hover{
+    color: black;
 }
 li{
     float: left;
@@ -13,4 +16,5 @@ a{
     display: block;
     padding: 8px;
     background-color: rgb(20, 4, 89);
+    
 }
