@@ -2,6 +2,8 @@ ul {
     list-style-type: disc;
     margin: 0;
     padding: 0;
+    width: 100%;
+    overflow: hidden;
 }
 li{
     float: left;
