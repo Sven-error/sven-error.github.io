@@ -20,6 +20,9 @@ a{
 }
 #grad1 {
     height: 200px;
-    background-color: rgb(10, 44, 74); /* For browsers that do not support gradients */
-    background-image: linear-gradient(rgb(10, 44, 7), rgb(85, 68, 161));
+    background-color: rgb(10, 44, 74); 
   }
+
+  body {
+    background-image: linear-gradient(rgb(10, 44, 74), rgb(85, 68, 161));
+}
