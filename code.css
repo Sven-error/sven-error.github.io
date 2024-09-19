@@ -4,10 +4,10 @@ ul {
     padding: 0;
     width: 100%;
     overflow: hidden;
-    background-color: rgb(20, 4, 89);
+    background-color: rgb(0, 0, 0);
 }
 a:hover{
-    background-color: black;
+    background-color: rgb(10, 44, 74);
 }
 li{
     float: left;
@@ -17,4 +17,7 @@ a{
     padding: 8px;
     background-color: rgb(20, 4, 89);
     
+}
+body{
+    background-color: ;
 }
