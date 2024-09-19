@@ -25,4 +25,8 @@ a{
 
   body {
     background-image: linear-gradient(rgb(10, 44, 74), rgb(85, 68, 161));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
