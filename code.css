@@ -30,3 +30,7 @@ a{
     background-attachment: fixed;
     background-position: center;
 }
+image {
+    width: 100%;
+    float: right;
+}
