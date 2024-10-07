@@ -47,3 +47,9 @@ body {color:white }
     font-size: 18px;
     border: rgb(85, 68, 161);
 } 
+
+#footer {
+    position: absolute;
+    bottom: 8px;
+    font-size: 18px;
+}
