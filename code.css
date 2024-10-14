@@ -5,23 +5,26 @@ ul {
     width: 100%;
     overflow: hidden;
     background-color: rgb(0, 12, 45);
-}
+} /* dit is de kleur van de zoekbalk en hoe hij er uit moet zien*/
+
 a:hover{
     background-color: rgb(10, 44, 74);
-}
+} /* hover animatie als je er op gaat veranderd de kleur van de zoek balk*/
+
 li{
     float: left;
-}
+} /* gezoorgt dat de zoek balk door loopt */
+
 a{
     display: block;
     padding: 8px;
     background-color: rgb(0, 11, 45);
-    
-}
+} 
+
 #grad1 {
     height: 200px;
     background-color: rgb(10, 44, 74); 
-  }
+  } /* van een id  gezoortg dat de kleur van de zoek balk die kleur is*/
 
   body {
     background-image: linear-gradient(rgb(10, 44, 74), rgb(85, 68, 161));
@@ -29,7 +32,7 @@ a{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-}
+} /* kleur van de achtergrond en veranderd naar een anderren kleur door ze te blenden*/
 
 #sterren {
     position: absolute;
@@ -37,8 +40,8 @@ a{
     right: 16px;
     font-size: 18px;
     border: black;
-}
-body {color:white }
+} /* id van foto en een border gegeven*/
+body {color:white } /* kleur van de boddy aan gepas en dat verander dus de tekst kleur*/
 
 #boaztuijn {
     position: absolute;
@@ -46,14 +49,14 @@ body {color:white }
     right: 16px;
     font-size: 18px;
     border: rgb(85, 68, 161);
-} 
+} /* id gegeven aan een link (gebruik ik niet meer) maar deze link heb ik verplaatst */
 
 #footer {
     position: absolute;
     bottom: 8px;
     font-size: 18px;
-}
+} /* id gegeven aan mijn footer en hem verplaatst*/
 #fotolossy {
     width: 701px;
     height: 404px;
-}
+} /* is een plaatje en heb een id gegeven waar door ik hem kon verklijnen
